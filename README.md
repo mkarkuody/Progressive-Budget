@@ -28,7 +28,7 @@ Got help Online from :
 •   Mangoose
 •   Heroku 
  Thanks to John Young my class instructor and Ben Vaagen my TA. special Thanks to Abdul Aziz my TA and Amanda Crawford My Tutor for helping me to understand the class and homework contents.
-# To create a Note Taker using this app;
+# To create a Progressive-Budget using this app;
 Clone repository.
 In the directory run npm install and then type npm start.
 as soon as you see the Message,(App listening on PORT: 3000) you can work on your localhost and type on the save and retrieve the data.
